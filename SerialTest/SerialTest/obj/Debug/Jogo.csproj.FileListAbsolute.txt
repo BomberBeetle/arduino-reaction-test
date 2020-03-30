@@ -1,0 +1,11 @@
+C:\Users\Computery\source\repos\SerialTest\SerialTest\obj\Debug\Jogo.csprojAssemblyReference.cache
+C:\Users\Computery\source\repos\SerialTest\SerialTest\obj\Debug\SerialTest.Form1.resources
+C:\Users\Computery\source\repos\SerialTest\SerialTest\obj\Debug\SerialTest.Properties.Resources.resources
+C:\Users\Computery\source\repos\SerialTest\SerialTest\obj\Debug\SerialTest.SelectPortDialog.resources
+C:\Users\Computery\source\repos\SerialTest\SerialTest\obj\Debug\Jogo.csproj.GenerateResource.cache
+C:\Users\Computery\source\repos\SerialTest\SerialTest\obj\Debug\Jogo.csproj.CoreCompileInputs.cache
+C:\Users\Computery\source\repos\SerialTest\SerialTest\bin\Debug\ArdReacoes.exe.config
+C:\Users\Computery\source\repos\SerialTest\SerialTest\bin\Debug\ArdReacoes.exe
+C:\Users\Computery\source\repos\SerialTest\SerialTest\bin\Debug\ArdReacoes.pdb
+C:\Users\Computery\source\repos\SerialTest\SerialTest\obj\Debug\ArdReacoes.exe
+C:\Users\Computery\source\repos\SerialTest\SerialTest\obj\Debug\ArdReacoes.pdb

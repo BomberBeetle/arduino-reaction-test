@@ -1,0 +1,11 @@
+C:\Users\Computery\source\repos\SerialTest\SerialTest\bin\Debug\SerialTest.exe.config
+C:\Users\Computery\source\repos\SerialTest\SerialTest\bin\Debug\SerialTest.exe
+C:\Users\Computery\source\repos\SerialTest\SerialTest\bin\Debug\SerialTest.pdb
+C:\Users\Computery\source\repos\SerialTest\SerialTest\obj\Debug\SerialTest.csprojAssemblyReference.cache
+C:\Users\Computery\source\repos\SerialTest\SerialTest\obj\Debug\SerialTest.Form1.resources
+C:\Users\Computery\source\repos\SerialTest\SerialTest\obj\Debug\SerialTest.Properties.Resources.resources
+C:\Users\Computery\source\repos\SerialTest\SerialTest\obj\Debug\SerialTest.SelectPortDialog.resources
+C:\Users\Computery\source\repos\SerialTest\SerialTest\obj\Debug\SerialTest.csproj.GenerateResource.cache
+C:\Users\Computery\source\repos\SerialTest\SerialTest\obj\Debug\SerialTest.csproj.CoreCompileInputs.cache
+C:\Users\Computery\source\repos\SerialTest\SerialTest\obj\Debug\SerialTest.exe
+C:\Users\Computery\source\repos\SerialTest\SerialTest\obj\Debug\SerialTest.pdb
